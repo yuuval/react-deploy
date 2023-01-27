@@ -16,64 +16,64 @@ function App() {
           </thead>
           <tbody>
             <tr>
-              <td>/gradebook</td>
-              <td>/teacher/register</td>
-              <td>POST</td>
+              <td>"/gradebook"</td>
+              <td>"/teacher/register"</td>
+              <td>"POST"</td>
             </tr>
             <tr>
-              <td>/gradebook</td>
-              <td>/teacher/login</td>
-              <td>POST</td>
+              <td>"/gradebook"</td>
+              <td>"/teacher/login"</td>
+              <td>"POST"</td>
             </tr>
             <tr>
-              <td>/gradebook</td>
-              <td>/grade/add</td>
-              <td>POST</td>
+              <td>"/gradebook"</td>
+              <td>"/grade/add"</td>
+              <td>"POST"</td>
             </tr>
             <tr>
-              <td>/gradebook</td>
-              <td>/grade/delete/{id}</td>
-              <td>DELETE</td>
+              <td>"/gradebook"</td>
+              <td>"/grade/delete/{id}"</td>
+              <td>"DELETE"</td>
             </tr>
             <tr>
-              <td>/gradebook</td>
-              <td>/grade/update/{id}</td>
-              <td>PUT</td>
+              <td>"/gradebook"</td>
+              <td>"/grade/update/{id}"</td>
+              <td>"PUT"</td>
             </tr>
             <tr>
-              <td>/gradebook</td>
-              <td>/grade</td>
-              <td>GET</td>
+              <td>"/gradebook"</td>
+              <td>"/grade"</td>
+              <td>"GET"</td>
             </tr>
             <tr>
-              <td>/gradebook</td>
-              <td>/student/register</td>
-              <td>POST</td>
+              <td>"/gradebook"</td>
+              <td>"/student/register"</td>
+              <td>"POST"</td>
             </tr>
             <tr>
-              <td>/gradebook</td>
-              <td>/student/login</td>
-              <td>POST</td>
+              <td>"/gradebook"</td>
+              <td>"/student/login"</td>
+              <td>"POST"</td>
             </tr>
             <tr>
-              <td>/gradebook</td>
-              <td>/subject/add</td>
-              <td>POST</td>
+              <td>"/gradebook"</td>
+              <td>"/subject/add"</td>
+              <td>"POST"</td>
             </tr>
             <tr>
-              <td>/gradebook</td>
-              <td>/subject/delete/{id}</td>
-              <td>DELETE</td>
+              <td>"/gradebook"</td>
+              <td>"/subject/delete/{id}"</td>
+              <td>"DELETE"</td>
             </tr>
             <tr>
-              <td>/gradebook</td>
-              <td>/subject/update/{id}</td>
-              <td>PUT</td>
+              <td>"/gradebook"</td>
+              <td>"/subject/update/{id}"</td>
+              <td>"PUT"</td>
             </tr>
             <tr>
-              <td>/gradebook</td>
-              <td>/subject</td>
-              <td>GET</td>
+              <td>"/gradebook"</td>
+              <td>"/subject"</td>
+              <td>"GET"</td>
             </tr>
           </tbody>
         </table>
