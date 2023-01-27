@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
+
 function App() {
   return (
     <div className="App">
@@ -32,12 +33,12 @@ function App() {
             </tr>
             <tr>
               <td>"/gradebook"</td>
-              <td>"/grade/delete/\{id\}"</td>
+              <td>"/grade/delete/{'id'}"</td>
               <td>"DELETE"</td>
             </tr>
             <tr>
               <td>"/gradebook"</td>
-              <td>"/grade/update/\{id\}"</td>
+              <td>"/grade/update/{'id'}"</td>
               <td>"PUT"</td>
             </tr>
             <tr>
@@ -62,12 +63,12 @@ function App() {
             </tr>
             <tr>
               <td>"/gradebook"</td>
-              <td>"/subject/delete/\{id\}"</td>
+              <td>"/subject/delete/{'id'}"</td>
               <td>"DELETE"</td>
             </tr>
             <tr>
               <td>"/gradebook"</td>
-              <td>"/subject/update/\{id\}"</td>
+              <td>"/subject/update/{'id'}"</td>
               <td>"PUT"</td>
             </tr>
             <tr>
